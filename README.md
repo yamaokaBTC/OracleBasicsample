@@ -17,4 +17,4 @@ headless-byteballのstart.jsと全く同じです。
 bytesを送金するときはこちらを起動してペアリングした後チャット経由で送るために配置しています。オラクルの読み書き自体には一切関係ありません。  
 
 詳細はこちらから  
-byteball.memo.wiki/d/%A5%AA%A5%E9%A5%AF%A5%EB%A4%CE%C6%C9%A4%DF%BD%F1%A4%AD%A5%B5%A5%F3%A5%D7%A5%EB%A5%B3%A1%BC%A5%C9
+http://byteball.memo.wiki/d/%A5%AA%A5%E9%A5%AF%A5%EB%A4%CE%C6%C9%A4%DF%BD%F1%A4%AD%A5%B5%A5%F3%A5%D7%A5%EB%A5%B3%A1%BC%A5%C9
