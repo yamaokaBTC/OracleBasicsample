@@ -1,2 +1,2 @@
-1
 # OracleBasicsample
+作成中

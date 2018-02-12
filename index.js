@@ -190,7 +190,6 @@ function readExistingData(feed_name, handleResult) {
 			reliablyPostDataFeed(datafeed);
 
 
-//search feedvalue*************
 		db.query(
 			//data_feed名で検索したい場合はこちらを使用
 			//"SELECT feed_name, is_stable, value \n\
@@ -215,6 +214,5 @@ function readExistingData(feed_name, handleResult) {
 			}
 		);
 	
-//****************
 		});
 	});
